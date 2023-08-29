@@ -6,6 +6,6 @@ export default defineConfig({
   base: "/differ",
   plugins: [react()],
   build: {
-    outDir: "./static",
+    outDir: "./docs",
   },
 });
